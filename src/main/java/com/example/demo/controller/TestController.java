@@ -14,10 +14,10 @@ public class TestController {
 
     @GetMapping("/selectToString")
     public String selectToString() {
-        System.out.println("成功！");
-        System.out.println("成功！");
-        System.out.println("成功！");
-        System.out.println("成功！");
+        System.out.println("成功1");
+        System.out.println("成功2");
+        System.out.println("成功3");
+        System.out.println("成功4");
         return "成功！";
     }
 
