@@ -15,6 +15,8 @@ public class TestController {
     @GetMapping("/selectToString")
     public String selectToString() {
         System.out.println("成功！");
+        System.out.println("成功！");
+        System.out.println("成功！");
         return "成功！";
     }
 
