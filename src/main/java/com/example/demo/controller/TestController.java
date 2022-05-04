@@ -18,6 +18,7 @@ public class TestController {
         System.out.println("成功2");
         System.out.println("成功3");
         System.out.println("成功4");
+        System.out.println("成功5");
         return "成功！";
     }
 
